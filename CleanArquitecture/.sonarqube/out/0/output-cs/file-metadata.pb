@@ -1,0 +1,10 @@
+X
+OC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Actor.csutf-8i
+`C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Common\BaseDomainModel.csutf-8e
+\C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Common\ValueObject.csutf-8[
+RC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Director.csutf-8[
+RC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Streamer.csutf-8X
+OC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Video.csutf-8]
+TC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\VideoActor.csutf-8’
+†C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8Œ
+€C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.csutf-8

@@ -1,0 +1,8 @@
+﻿C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Actor.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Common\BaseDomainModel.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Common\ValueObject.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Director.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Streamer.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Video.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\VideoActor.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\Notas.txt

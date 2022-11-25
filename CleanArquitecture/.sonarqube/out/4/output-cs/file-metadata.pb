@@ -1,0 +1,12 @@
+´
+°C:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Features\Streamers\CreateStreamer\CreateStreanerCommandHanlderXUnitTests.csutf-8´
+°C:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Features\Streamers\DeleteStreamer\DeleteStreamerCommandHandlerXUnitTests.csutf-8´
+°C:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Features\Streamers\UpdateStreamer\UpdateStreamerCommandHandlerXUnitTests.csutf-8ù
+ìC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Features\Video\Queries\GetVideosListQueryHandlerXUnitTests.csutf-8~
+uC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Mocks\MockStreamerRepository.csutf-8v
+mC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Mocks\MockUnitOfWork.csutf-8{
+rC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\Mocks\MockVideoRepository.csutf-8{
+pC:\Users\git\.nuget\packages\microsoft.net.test.sdk\17.0.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8¨
+†C:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\obj\Debug\net6.0\CleanArchitecture.Application.UnitTests.GlobalUsings.g.csutf-8°
+ïC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8™
+ûC:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\obj\Debug\net6.0\CleanArchitecture.Application.UnitTests.AssemblyInfo.csutf-8

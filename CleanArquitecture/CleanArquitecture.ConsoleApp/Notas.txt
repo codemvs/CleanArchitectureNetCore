@@ -1,0 +1,4 @@
+﻿ConsoleApp: Aplicacion cliente para probar las transacciones que damos a nuestro EF
+
+#Nuget Install Package
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 6.0.0

@@ -1,0 +1,14 @@
+m
+dC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\AccountController.csutf-8n
+eC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\DirectorController.csutf-8n
+eC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\StreamerController.csutf-8k
+bC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\VideoController.csutf-8i
+`C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Errors\CodeErrorException.csutf-8h
+_C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Errors\CodeErrorResponse.csutf-8n
+eC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Middleware\ExceptionMiddleware.csutf-8W
+NC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Program.csutf-8_
+VC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\WeatherForecast.csutf-8á
+|C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.GlobalUsings.g.csutf-8è
+ÉC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8Ö
+zC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfo.csutf-8ô
+çC:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.csutf-8

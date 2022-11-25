@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\CleanArchitecture.Domain.csproj
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Application\CleanArchitecture.Application.csproj
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\CleanArchitecture.Identity.csproj
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\CleanArchitecture.Infraestructure.csproj
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\CleanArchitecture.API.csproj
+
+
+Test projects
+---------------------------------------
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArchitecture.Application.UnitTests\CleanArchitecture.Application.UnitTests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

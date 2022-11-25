@@ -1,0 +1,16 @@
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Data.deps.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Data.runtimeconfig.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Data.runtimeconfig.dev.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Data.dll
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Data.pdb
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.csproj.AssemblyReference.cache
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.AssemblyInfoInputs.cache
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.AssemblyInfo.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.csproj.CoreCompileInputs.cache
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.csproj.CopyComplete
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.dll
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.pdb
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Data.genruntimeconfig.cache

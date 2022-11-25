@@ -1,0 +1,3 @@
+﻿Ejecutar migracion
+add-migration GenerateTables -context CleanArchitectureIdentityDbContext
+update-database -context CleanArchitectureIdentityDbContext

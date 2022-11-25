@@ -1,0 +1,9 @@
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.deps.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.AssemblyInfoInputs.cache
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.AssemblyInfo.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.csproj.CoreCompileInputs.cache
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb

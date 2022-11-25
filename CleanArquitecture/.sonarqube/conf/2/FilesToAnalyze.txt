@@ -1,0 +1,11 @@
+﻿C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\CleanArchitectureIdentityDbContext.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Configurations\RoleConfiguration.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Configurations\UserCofiguration.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Configurations\UserRoleConfiguration.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\IdentityServiceRegistration.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Migrations\20221009181302_GenerateTables.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Migrations\20221009181302_GenerateTables.Designer.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Migrations\CleanArchitectureIdentityDbContextModelSnapshot.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Models\ApplicationUser.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Services\AuthService.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Identity\Notas.txt

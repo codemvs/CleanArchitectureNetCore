@@ -1,0 +1,16 @@
+﻿C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\AccountController.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\DirectorController.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\StreamerController.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Controllers\VideoController.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Errors\CodeErrorException.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Errors\CodeErrorResponse.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Middleware\ExceptionMiddleware.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Program.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\WeatherForecast.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.GlobalUsings.g.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfo.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\appsettings.Development.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\appsettings.json
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.API\Properties\launchSettings.json

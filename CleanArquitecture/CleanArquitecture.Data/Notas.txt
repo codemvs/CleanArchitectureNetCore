@@ -1,0 +1,14 @@
+﻿Data: Permite realizar la logica de las transacciones de EF
+
+#Nuget install pagckage
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 6.0.0
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 6.0.0
+
+
+#Package Manager Console Commands Migrations
+* Realizar una migracion, el default Project debe ser *.Data
+PM> add-migration MigracionInicial
+PM> update-database
+
+ Add-Migration Codemvs -Context StreamerDbContext
+ update-database -Context StreamerDbContext

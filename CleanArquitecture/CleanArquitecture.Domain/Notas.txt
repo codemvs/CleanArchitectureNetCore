@@ -1,0 +1,1 @@
+﻿Domain: Se encarga de almacenar las clases de dominio, clases de tipo Entidad de mi solucion

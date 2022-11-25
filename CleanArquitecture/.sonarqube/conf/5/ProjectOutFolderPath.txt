@@ -1,0 +1,1 @@
+C:\cursos\CleanArquitecture\CleanArquitecture\.sonarqube\out\5

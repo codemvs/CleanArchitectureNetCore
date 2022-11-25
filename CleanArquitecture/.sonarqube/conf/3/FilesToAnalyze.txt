@@ -1,0 +1,16 @@
+﻿C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Email\EmailService.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\InfraestructureServiceRegistration.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20220811025606_MigracionInicial.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20220811025606_MigracionInicial.Designer.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20220910223207_agregar-tablas-entidad-relacion.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20220910223207_agregar-tablas-entidad-relacion.Designer.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20221004033058_CleanArquitectureCodemvs.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\20221004033058_CleanArquitectureCodemvs.Designer.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Migrations\StreamerDbContextModelSnapshot.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Persistence\StreamerDbContext.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Persistence\StreamerDbContextSeed.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Repositories\RepositoryBase.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Repositories\StreamerRepository.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Repositories\UnitOfWork.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Repositories\VideoRepository.cs
+C:\cursos\CleanArquitecture\CleanArquitecture\CleanArquitecture.Data\Notas.txt

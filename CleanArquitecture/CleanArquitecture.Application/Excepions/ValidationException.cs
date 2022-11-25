@@ -1,0 +1,22 @@
+﻿using FluentValidation.Results;
+
+namespace CleanArchitecture.Application.Excepions
+{
+    public class ValidationException:ApplicationException
+    {
+        public IDictionary<string, string[]> Errors { get; set; }
+
+
+        public ValidationException(): base("Se presentaron uno o mas errores de validación")
+        {
+            Errors = new Dictionary<string, string[]>();
+        }
+
+        public ValidationException(IEnumerable<ValidationFailure> failures):this() 
+        {
+            Errors = failures
+                .GroupBy(e => e.PropertyName, e => e.ErrorMessage)
+                .ToDictionary(failureGroup => failureGroup.Key, failiureGroup => failiureGroup.ToArray());
+        }
+    }
+}
